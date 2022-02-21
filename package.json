@@ -1,11 +1,11 @@
 {
   "name": "adrian_web3_app",
-  "homepage": "https://adriancabal.github.io",
+  "homepage": "https://adriancabal.github.io/web3-react-app",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview --host",
+    "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d dist"
   },
@@ -13,14 +13,14 @@
     "ethers": "^5.5.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-icons": "^4.3.1",
-    "postcss": "^8.4.5",
-    "tailwindcss": "^3.0.17"
+    "react-icons": "^4.3.1"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^1.0.7",
     "autoprefixer": "^10.4.2",
     "gh-pages": "^3.2.3",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.17",
     "vite": "^2.7.2"
   }
 }
