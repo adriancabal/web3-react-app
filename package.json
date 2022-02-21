@@ -1,6 +1,6 @@
 {
   "name": "adrian_web3_app",
-  "homepage": "https://adriancabal.github.io/web3-react-app/",
+  "homepage": "https://adriancabal.github.io/web3-react-app",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
